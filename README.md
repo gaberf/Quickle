@@ -6,7 +6,7 @@ Access popular Google Products in two clicks. | v1.0.0
 Available for Chrome 🎨 and Firefox 🦊
 # Download 🌩️
 
-Through Chrome Web Store and Firefox Addons 🛒
+<b>Through Chrome Web Store and Firefox Addons 🛒 (Recomended)</b>
 
 Quickle downloads through the Chrome and Firefox extension stores are currently under review. They should be uploaded by August 16th. If you want to install Quickle manually, follow the steps below.
 
