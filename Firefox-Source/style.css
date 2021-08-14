@@ -1,0 +1,159 @@
+html {
+    width: 222px;
+    height: 280px;
+    border-radius: 10px;
+}
+
+body {
+    margin: 0px;
+    height: 280px;
+    width: 222px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+}
+
+hr {
+    color: black;
+    width: 30%;
+    height: 1px;
+    background-color: black;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+}
+
+#header-logo {
+    width: 135.2px;
+    height: 44.8px;
+    margin-top: 10px;
+    padding-bottom: 5px;
+}
+
+#img-title-container {
+    background-color: #dedede;
+}
+
+
+
+#google-img {
+    width: 36px;
+    height: 36px;
+}
+
+#account-img {
+    width: 26px;
+    height: 36px;
+}
+
+#gmail-img {
+    width: 58px;
+    height: 32px;
+    padding-bottom: 4px;
+}
+
+#youtube-img {
+    width: 45px;
+    height: 50px;
+    padding-bottom: 4px;
+    margin-top: -7px;
+    margin-bottom: -11px;
+}
+
+#drive-img {
+    width: 34px;
+    height: 34px;
+    padding-bottom: 2px;
+}
+
+#classroom-img {
+    width: 37px;
+    height: 36px;
+}
+
+#search-container {
+    height: auto;
+    width: 60px;
+    float: left;
+}
+
+#drive-container {
+    height: auto;
+    width: 60px;
+    float: left;
+}
+
+#account-container {
+    width: 60px;
+    height: auto;
+    float: left;
+}
+
+#gmail-container {
+    width: 60px;
+    height: auto;
+    float: left;
+}
+
+#classroom-container {
+    width: 60px;
+    height: auto;
+    float: left;
+}
+
+#youtube-container {
+    width: 60px;
+    height: auto;
+    float: left;
+}
+
+#extension-navbar {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #dedede;
+}
+
+.links-container {
+    height: auto;
+    width: 95%;
+}
+
+.link-name {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.remove-link {
+    text-decoration: none !important;
+}
+
+.single-link {
+    border-radius: 10px;
+    padding: 5px 5px;
+}
+
+.single-link:hover {
+    background-color: #dedede;
+    cursor: pointer;
+}
+
+.bottom-sep {
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.black {
+    color: black !important;
+}
+
+
+a {
+    text-decoration: none;
+}
