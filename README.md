@@ -46,6 +46,6 @@ Firefox:
 <ol>
   <li>Download firefox-install.zip from this repository.</li>
   <li>On firefox, navigate to about:addons.</li>
-  <li>Click the settings gear, and select "Debug Add-ons".</li>
-  <li>On the debug page, use "load temporary add-on" to import firefox-install.zip.</li>
-  <li>Yay! You've successfully installed the extension!</li>
+  <li>Click the settings gear, and select "Install Add-On from File".</li>
+  <li>Select firefox-install.zip and select "Open".</li>
+  <li>You've succesfuly installed Quickle!</li>
