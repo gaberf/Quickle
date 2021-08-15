@@ -8,9 +8,11 @@ Available for Chrome 🎨 and Firefox 🦊
 
 <b>Through Chrome Web Store and Firefox Addons 🛒 (Recommended)</b>
 
-Quickle downloads through the Chrome and Firefox extension stores are currently under review. They should be uploaded by August 16th. If you want to install Quickle manually, follow the steps below.
+💻 Through Chrome Web Store: <a href="https://chrome.google.com/webstore/detail/quickle/gpoaepicffnilnbidlggcmenncjffbff">Quickle For Chrome</a>
 
-<a href="#install">How to Install Quickle Manually</a>
+🦊 Through Firefox Addons: Extension currently being published
+
+📁 Manual Install: <a href="#install">How to Install Quickle Manually</a>
 
 # Features 📋
 
