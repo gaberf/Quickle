@@ -10,7 +10,7 @@ Available for Chrome 🎨 and Firefox 🦊
 
 💻 Through Chrome Web Store: <a href="https://chrome.google.com/webstore/detail/quickle/gpoaepicffnilnbidlggcmenncjffbff">Quickle For Chrome</a>
 
-🦊 Through Firefox Addons: Extension currently being published
+🦊 Through Firefox Addons: <a href="https://addons.mozilla.org/en-US/firefox/addon/quickle/">Quickle For Firefox</a>
 
 <b>Other Installation Methods</b>
 
