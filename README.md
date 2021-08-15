@@ -12,6 +12,8 @@ Available for Chrome 🎨 and Firefox 🦊
 
 🦊 Through Firefox Addons: Extension currently being published
 
+<b>Other Installation Methods</b>
+
 📁 Manual Install: <a href="#install">How to Install Quickle Manually</a>
 
 # Features 📋
