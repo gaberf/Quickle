@@ -1,7 +1,7 @@
 <br>
-<img src="https://i.ibb.co/rsfBj7b/quickle3-0.png" alt="Quickle">
+<img src="https://i.ibb.co/5LfxLhK/Webp-net-resizeimage.png" alt="Quickle">
 
-Access popular Google Products in two clicks. | v1.0.0
+Access popular Google Products in two clicks. | v2.0.1
 
 Available for Chrome 🎨 and Firefox 🦊
 # Download 🌩️
@@ -18,18 +18,23 @@ Available for Chrome 🎨 and Firefox 🦊
 
 # Features 📋
 
-Quickle v1.0 🔎 allows quick and easy access to the following Google Products:
+Quickle v2.0 🔎 allows quick and easy access to the following Google Products:
 
 <ul>
-  <li>Google Search</li>
-  <li>Google Classroom</li>
-  <li>Google Drive</li>
-  <li>Google Accounts</li>
-  <li>Gmail</li>
-  <li>YouTube</li>
-</ul>
 
-Quickle v1.5 🌗 will add Dark Mode, and possible more Google Product links.
+  <li>Google Search</li>
+  <li>Gmail</li>
+  <li>Google Accounts</li>
+  <li>Google Classroom</li>
+  <li>Google News</li>
+  <li>YouTube</li>
+  <li>Google Drive</li>
+  <li>Google Chat</li>
+  <li>Google Docs</li>
+  
+Quickle v2.0 also allows you to search Google directly through the Quickle interface. Select the Google tab near the top of the extension, and you will have access to Google Search in Quickle's interface.
+  
+</ul>
 
 <h1 id="install">How to Install Manually 👔</h1>
 
