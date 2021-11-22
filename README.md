@@ -31,10 +31,11 @@ Quickle v2.0 🔎 allows quick and easy access to the following Google Products:
   <li>Google Drive</li>
   <li>Google Chat</li>
   <li>Google Docs</li>
-  
+
+ </ul>
 Quickle v2.0 also allows you to search Google directly through the Quickle interface. Select the Google tab near the top of the extension, and you will have access to Google Search in Quickle's interface.
   
-</ul>
+
 
 <h1 id="install">How to Install Manually 👔</h1>
 
