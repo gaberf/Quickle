@@ -1,24 +1,18 @@
 <br>
-<img src="https://i.ibb.co/5LfxLhK/Webp-net-resizeimage.png" alt="Quickle">
+<p align="center">
+<img  width="230px" height="75px" src="/repo-icons/quicklefinal.png" alt="Quickle">
+</p>
 
-Access popular Google Products in two clicks. | v2.0.1
+<p align="center">Browser Extension ℹ Conveniently access your favorite Google services in two clicks. ⚡ v2.5.1</p>
+<p align="center">Available on the <a href="https://chrome.google.com/webstore/detail/quickle/gpoaepicffnilnbidlggcmenncjffbff/related?hl=en-US">Chrome Web Store</a>.</p>
 
-Available for Chrome 🎨 and Firefox 🦊
-# Download 🌩️
+# ✨ Features
 
-<b>Through Chrome Web Store and Firefox Addons 🛒 (Recommended)</b>
+<p>
+<img style="margin-top: 40px" height="300px" width="250px" align="right" src="/repo-icons/home shower-modified.png">
 
-💻 Through Chrome Web Store: <a href="https://chrome.google.com/webstore/detail/quickle/gpoaepicffnilnbidlggcmenncjffbff">Quickle For Chrome</a>
 
-🦊 Through Firefox Addons: <a href="https://addons.mozilla.org/en-US/firefox/addon/quickle/">Quickle For Firefox</a>
-
-<b>Other Installation Methods 👾</b>
-
-📁 Manual Install: <a href="#install">How to Install Quickle Manually</a>
-
-# Features 📋
-
-Quickle v2.0 🔎 allows quick and easy access to the following Google Products:
+Quickle allows quick and easy access to the following Google Products:
 
 <ul>
 
@@ -33,25 +27,29 @@ Quickle v2.0 🔎 allows quick and easy access to the following Google Products:
   <li>Google Docs</li>
 
  </ul>
-Quickle v2.0 also allows you to search Google directly through the Quickle interface. Select the Google tab near the top of the extension, and you will have access to Google Search in Quickle's interface.
-  
+ </p>
+Quickle v2.0 also allows you to search Google directly through Quickle's google menu.
 
+# 📋 Changelog
 
-<h1 id="install">How to Install Manually 👔</h1>
+<p><strong>v2.5.0</strong> Chrome</p>
+<ul>
+<li>Image bug fixed</li>
+<li>Extension opening time decreased</li>
+</ul>
 
-Chrome:
-<ol>
-  <li>Download the Chrome-Source folder from this repository.</li>
-  <li>On Chrome, navigate to chrome://extensions.</li>
-  <li>Enable developer mode using the switch near the top of the screen.</li>
-  <li>Use "Load Unpacked" to import the Chrome-Source folder.</li>
-  <li>The extension is installed! Enjoy!</li>
-</ol>
+<p><strong>v2.0.0</strong> Chrome</p>
+<ul>
+<li>Redesigned UI</li>
+<li>Menu bar with home, google, and settings tabs</li>
+<li>Ability to search Google directly through Quickle</li>
+<li>Support for Google Chat, Docs, and News</li>
+</ul>
+<p><strong>Initial Release</strong> Chrome & Firefox</p>
+<ul>
+<li>Extension released for Google Chrome and Firefox</li>
+<li>Quick access to six different Google products</li>
+</ul>
 
-Firefox:
-<ol>
-  <li>Download firefox-install.zip from this repository.</li>
-  <li>On firefox, navigate to about:addons.</li>
-  <li>Click the settings gear, and select "Install Add-On from File".</li>
-  <li>Select firefox-install.zip and select "Open".</li>
-  <li>You've succesfuly installed Quickle!</li>
+# ℹ About
+<p>Quickle is one of the many projects I work on in my free time, and I have many features planned for future releases. If you are interested on helping me develop Quickle, feel free to contact me through <a href="https://twitter.com/gaberfox_">my Twitter</a>.
