@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">Browser Extension ℹ Conveniently access your favorite Google services in two clicks. ⚡ v2.5.1</p>
-<p align="center">Available on the <a href="https://chrome.google.com/webstore/detail/quickle/gpoaepicffnilnbidlggcmenncjffbff/related?hl=en-US">Chrome Web Store</a>.
+<p align="center">Available on the <a href="https://chrome.google.com/webstore/detail/quickle/gpoaepicffnilnbidlggcmenncjffbff?hl=en-US">Chrome Web Store</a>.
 <p align="center">Older version also <a href="https://addons.mozilla.org/en-US/firefox/addon/quickle/">available on Firefox Add-ons</a>.</p>
 </p>
 
